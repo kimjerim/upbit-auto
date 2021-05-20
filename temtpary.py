@@ -8,7 +8,7 @@ from requests.api import post
 
 access="DxIkC32RnuzLntH2dw2tNWxRwRGxq7ugw8f1TsHK"
 secret="b5KG1CatTQ1CVqoxl8Z7WTlzEHSHUZixSSV5wcZG"
-myToken="xoxb-2065052070515-2065055793955-p5ZVzRniMbn6vym7CVOVYaBJ"
+myToken="xoxb-2065052070515-2065055793955-vW55XmzsuePl3ulWEUyb2SVy"
 
 
 # 슬랙 메시지 
